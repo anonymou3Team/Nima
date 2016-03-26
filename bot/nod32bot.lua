@@ -249,7 +249,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/nimaanonymous/Nima.git
+https://github.com/anonymou3Team/Nima.git
 
 channel : ♛ ↬  @anonymou3_Bot ↫ ♛
 sodu : ♛ ↬ @anonymou3nk ↫ ♛
